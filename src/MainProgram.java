@@ -14,14 +14,8 @@ public class MainProgram {
 		
 		System.out.println("====== if you want to create the change with spesific objective  =======");
 		System.out.println("Step[1] : before you change your code, please create branch with the specific name of change for others understanding");
-		System.out.println("Now, before you commit something, you can select branch or master that you want to commit to");
-		
-		
 		System.out.println("Step[] : ");
-		
-		
-		System.out.println("======= Note ==========");
-		System.out.println("> The green highlight is the new changes");
+		System.out.println("Step[] : ");
 	}
 	
 }
