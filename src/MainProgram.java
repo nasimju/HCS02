@@ -9,8 +9,11 @@ public class MainProgram {
 		System.out.println("Step[3] : if you  connect the internet, you can publish your code");
 		System.out.println("Step[4] : You can change your code and then commit to the master");
 		System.out.println("Note : before commition, please insert the description of your change");
-		System.out.println("Step[] : ");
-		System.out.println("Step[] : ");
+		
+		
+		
+		System.out.println("====== if you want to create the change with spesific objective  =======");
+		System.out.println("Step[1] : before you change your code, please create branch with the specific name of change for others understanding");
 		System.out.println("Step[] : ");
 		System.out.println("Step[] : ");
 	}
